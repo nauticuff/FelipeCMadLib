@@ -1,10 +1,7 @@
 ﻿/*
-Carlos Felipe Sales
-9-13-22
-Mini Challenge #5 - Mad Lib
-This code asks the user for various words and takes that information to generate a funny story at the end
-Peer review: Brandon Le - fun and interesting mad lib and works as intended
-GOOD TO GO :)
+Carlos Felipe
+10/19/22
+This program asks the user for various verbs, nouns, and adjectives. It then prints out a predetermined story where the blank spaces are filled in with the user's input.
 */
 
 Console.Clear();
