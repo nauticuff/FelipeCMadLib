@@ -1,6 +1,7 @@
 ﻿/*
 Carlos Felipe
 10/19/22
+Mini Challenge #5 - Mad Lib
 This program asks the user for various verbs, nouns, and adjectives. It then prints out a predetermined story where the blank spaces are filled in with the user's input.
 */
 
